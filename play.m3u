@@ -21,4 +21,4 @@ http://87.252.254.168:4022/udp/233.81.116.205:1234
 udp://226.0.0.100:1234
 
 #EXTINF:-1 tvg-id="ntv-belarus" group-title="Эфирные", ДонТВ-08
-udp://226.0.0.27:1234
+https://raw.githubusercontent.com/sotvlad1/playlist/refs/heads/main/donTV-08.m3u8
