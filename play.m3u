@@ -6,19 +6,19 @@
 https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
 
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png" group-title="Эфирные",Первый канал HD
-udp://@226.0.130.2:1234
+udp://226.0.130.2:1234
 
 #EXTINF:-1 tvg-id="ntv-xit" group-title="Эфирные", НТВ Хит
 #EXTVLCOPT:http-user-agent=SmartTV
-udp://@226.0.130.3:1234
+udp://226.0.130.3:1234
 
 
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ Сериал
 #EXTVLCOPT:http-user-agent=SmartTV
-udp://@226.0.130.4:1234
+udp://226.0.130.4:1234
 
 #EXTINF:-1 tvg-id="ntv-mir" group-title="Эфирные", Реклама
-udp://@226.0.0.100:1234
+udp://226.0.0.100:1234
 
 #EXTINF:-1 tvg-id="ntv-belarus" group-title="Эфирные", ДонТВ-08
-udp://@226.0.0.27:1234
+udp://226.0.0.27:1234
