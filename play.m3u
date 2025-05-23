@@ -15,7 +15,7 @@ udp://226.0.130.3:1234
 
 #EXTINF:-1 tvg-id="ntv-serial" group-title="Эфирные", НТВ Сериал
 #EXTVLCOPT:http-user-agent=SmartTV
-udp://226.0.130.4:1234
+http://87.252.254.168:4022/udp/233.81.116.205:1234
 
 #EXTINF:-1 tvg-id="ntv-mir" group-title="Эфирные", Реклама
 udp://226.0.0.100:1234
